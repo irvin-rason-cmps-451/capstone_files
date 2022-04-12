@@ -1,0 +1,52 @@
+Rason Irvin
+(832) 291-5914 | Mountain View, CA | rasonirvin@gmail.com/| www.linkedin.com/in/rasonirvin/
+
+EDUCATION	
+Southern University and A&M College 	Baton Rouge, LA
+Bachelor of Science; Computer Science Major; GPA: 4.0	Expected Graduation: Spring 2022
+ 
+EXPERIENCE	
+Tesla 	Palo Alto, CA
+Software Engineer Intern	November 2021 - Present 
+•	Re-architect, implement, and globally rollout internal microservice for our Toolbox platform allowing increased reliability and observability of platform actions using Python
+•	Migrate existing messaging broker, RabbitMQ, to Kafka leveraging ksqlDB allowing for increased throughput and error handling
+•	Perform on-call duties to resolve daily issues as they occur across our Toolbox and connected services through code changes, ensuring our platform’s consistent availability and usability
+
+Uber Technologies	San Francisco, CA
+Software Engineer Intern	May 2020 - August 2020; September 2021 – November 2021 
+•	Deployed a multi-million-dollar dispatch incentive to users globally that attributed to a decrease in unfulfilled orders
+•	Evaluated the effectiveness of implemented dispatch incentive updates through AB Testing in major cities across the US
+•	Deliver strategic recommendations through performing analysis on large pools of data using automation processes 
+•	Initiated development on an internal API providing additional insight of data, specifically lineage, leveraged by our organization’s teams using Java and Apache Calcite
+•	Detailed the incoming architecture updates and summarize the planned changes in a technical specification document
+
+Apple 	Cupertino, CA
+Software Development Intern 	May 2021 – August 2021
+•	Selected as 1 of 9 interns to present to the Senior Vice President of Software Engineering, Craig Federighi, to present my work ensuring high-quality releases of our iOS and macOS devices by providing additional coverage
+•	Spearheaded development and execution of automated external media handling on behalf of the Storage Technologies team, resulting in 26 hours saved per week for the Storage QA team using python and IOKit.
+•	Provided functionality for our quality team to automate stack build-up and teardown validation by integrating a robotic into our automation framework, accessible as a highly portable python library
+•	Curated detailed documentation for recreation and plans to transition the prototype to a wide-scale solution
+
+The Walt Disney Company	Burbank, CA
+Product Manager Intern	September 2020 – May 2021
+•	Launched Movies Anywhere’s first iOS 14 widget using data-driven insights attributing to a 5% purchase conversion from our average 8%
+•	Led a user privacy initiative end to end including education using Braze for in-app communication, customer care website updates, and email campaigns to transition over 700k Facebook logged in users from social to email based accounts.
+•	Developed a deep understanding of Movies Anywhere’s business objectives alongside internal and external stakeholders
+•	Collaborated with cross-functional teams (Design, Clients, QA, Legal, Marketing) to create product requirements and presentation decks that support the product vision and go-to-market strategy
+•	Managed and conducted product teardown analysis of tangential and parallel platforms
+
+Southern University and A&M College	Baton Rouge, LA
+President	of Association of Computer Machinery	January 2020 - March 2021
+•	Pioneered informational sessions with leading Fortune 500 companies creating lasting pipelines within our computer science department
+•	Administered 1:1 technical interviews and resume workshops helping four students obtain internships and three obtain full-time roles
+•	Improved organizational involvement and total membership by 40% to over 100 members
+
+ACTIVITIES, SKILLS, & ACHIEVEMENTS
+Activities: Association of Computer Machinery, National Society of Black Engineers, Honors Student, Jesse Stone Scholar, TMCF Scholar, Black
+Product Managers, Product Buds, Product School
+Skills: Product Requirements, Testing (AB, Unit, Integration), Jira, Aha! , Amplitude, Braze, Sketch, Figma, Adobe Creative Cloud
+Keynote, Microsoft Office 365, Git, Programming Languages (Go, C++, Java, Kotlin, Python, MySQL), Grafana, Sentry, Splunk
+Achievements: 1st Place Winner of Chevron Energy Innovation Summit, Truist Innovation Challenge, and Cartier Innovation Challenge’s Case
+Competitions, 2nd Place Winner of Biztech Challenge 2019, Stanley Black & Decker Innovation Challenge Case Competitions, 2nd Place Winner of 
+Zillow HBCU Hackathon, 3rd Place Winner of Biztech Challenge 2021 and NBA Innovate the Future Case Competitions, HBCU Battle of the Brains
+Case Competition Finalist
