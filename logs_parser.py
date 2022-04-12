@@ -22,7 +22,7 @@ def control():
     initial_cpu = psutil.cpu_percent()
     start = time.time()
 
-    with open("/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/sample_kube_logs.txt", "r") as f:
+    with open("/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/capstone_files/sample_kube_logs.txt", "r") as f:
         lines = f.read().splitlines()
         f.close()
 
@@ -48,12 +48,12 @@ def hypothesized():
         - Memory Usage
         - CPU Usage
 
-    Time Complexity: O()
+    Time Complexity: O(1)
     '''
     initial_cpu = psutil.cpu_percent()
     start = time.time()
     
-    img = cv2.imread("/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/sample_kube_logs.jpeg")
+    img = cv2.imread("/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/capstone_files/sample_kube_logs.jpeg")
     # crop image to focus area
     roi = img[0:994, 425:558]
     # track data
@@ -72,13 +72,13 @@ def main():
         - File Size
     '''
     # control run
-    txt_size = os.path.getsize('/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/sample_kube_logs.txt')
+    txt_size = os.path.getsize('/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/capstone_files/sample_kube_logs.txt')
     print(f'.txt File Size: {txt_size}')
     for i in range(10):
         print(control())
 
     # hypothesized run
-    jpeg_size = os.path.getsize("/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/sample_kube_logs.jpeg")
+    jpeg_size = os.path.getsize("/Users/rasonirvin/Desktop/Irvin, Rason CMPS 451 Source Code/capstone_files/sample_kube_logs.jpeg")
     print(f'.jpeg File Size: {jpeg_size}')
     for i in range(10):
         hypothesized()
